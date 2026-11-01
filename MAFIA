@@ -1,5 +1,3 @@
-cat > MAFIA <<'PY'
-import MAFIA
-
-print("MAFIA LOADED")
-PY
+git init
+git add MAFIA Mafia664.cpython-314-aarch64-linux-android.so
+git commit -m "Upload project"
